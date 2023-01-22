@@ -3,4 +3,5 @@
 # still lazy and unworthy.
 # still not improving & still unworthy
 # watch me watch me nae nae
-# still not improving
+# still not improving 
+# I think I should quit
