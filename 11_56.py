@@ -5,4 +5,4 @@
 # watch me watch me nae nae
 # still not improving 
 # I think I should quit
-# nvm ill try again
+# nvm ill try again, hehe
