@@ -6,3 +6,4 @@
 # still not improving 
 # I think I should quit
 # nvm ill try again, hehe
+# I need to send output to DB
