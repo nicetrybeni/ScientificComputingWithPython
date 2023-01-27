@@ -1,4 +1,4 @@
-# I'm such a sht for being lazy
+# Create a input if else 
 xh = input("Enter the value of X: ")
 ih = int(xh)
 x = ih
