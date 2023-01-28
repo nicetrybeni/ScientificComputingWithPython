@@ -1,4 +1,4 @@
-# Create a input if else 
+# Create a program that asks for a user input with if-else
 xh = input("Enter the value of X: ")
 ih = int(xh)
 x = ih
