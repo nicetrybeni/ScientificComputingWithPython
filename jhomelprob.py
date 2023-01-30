@@ -1,4 +1,5 @@
 print("EMPLOYEE PAY SLIP")
+# nid = Employee ID
 nid= str(input("Enter Employee Id:"))
 name= str(input("Enter name of employee:"))
 ar= str(input("Enter Academic Rank:"))
