@@ -1,5 +1,5 @@
 # Create a program that asks for a user input with if-else.
-# input() is for scanner
+# input() is for scanner.
 xh = input("Enter the value of X: ")
 ih = int(xh)
 x = ih
