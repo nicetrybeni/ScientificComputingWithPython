@@ -3,6 +3,7 @@
 xh = input("Enter the value of X: ")
 ih = int(xh)
 x = ih
+# Use switch or if-else
 if x < 2 :
     print("Small")
 elif x < 10 :
