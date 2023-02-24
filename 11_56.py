@@ -1,4 +1,4 @@
-# wait for my comeback
+# wait for my comeback after thesis.
 # Create a program that asks for a user input with if-else.
 # input() is for scanner.
 xh = input("Enter the value of X: ")
