@@ -12,7 +12,7 @@ elif x < 10 :
 else : 
     print("Large")
 print("All Done")
-#Switch Case for the selection
+#Switch Case for the selection.
 lang = input("What's the programming language you want to learn? ")
 
 match lang:
