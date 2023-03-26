@@ -1,4 +1,4 @@
-# Not yet finished rest day for 2 days
+# if and elif in python.
 x = 5
 if x < 10:
     print("I am less than")
