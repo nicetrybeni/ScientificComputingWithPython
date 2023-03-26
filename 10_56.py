@@ -1,4 +1,4 @@
-# Not yet finished rest day for 4 days.
+# While loop.
 x = 10
 while x > 0:
     print(x)
