@@ -12,6 +12,7 @@ print("Hello", x)
 
 # Exercise 2
 # Use 35hrs and a rate of 2.75/hr with float the output should be 96.25
+# the input() requires the user to input data.
 xh = input("Enter Hours: ")
 xr = input("Enter Rate: ")
 xp = float(xh) * float(xr)
