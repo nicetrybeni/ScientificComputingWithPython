@@ -1,3 +1,4 @@
+# try and except function.
 astr = 'Hello Bob'
 try:
         print('Hello')
