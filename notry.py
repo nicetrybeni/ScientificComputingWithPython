@@ -1,4 +1,4 @@
-# try and except function.
+# try and except function similar to if-else.
 astr = 'Hello Bob'
 try:
         print('Hello')
