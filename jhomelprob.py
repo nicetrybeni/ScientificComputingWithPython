@@ -1,3 +1,4 @@
+#Lab Activity
 print("EMPLOYEE PAY SLIP")
 # nid = Employee ID
 nid= str(input("Enter Employee Id:"))
