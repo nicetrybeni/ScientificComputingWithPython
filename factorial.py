@@ -1,4 +1,4 @@
-# Factorial
+# Factorial.
 def factorial(x):
     """This is a recursive function
     to find the factorial of an integer"""
