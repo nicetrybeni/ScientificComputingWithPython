@@ -1,9 +1,6 @@
-name = input("What is your name: ")
+x = 5 
 
-match name:
-    case "beni":
-            print("MASTER BENI")
-    case "duqs":
-            print("Pakyu duque")
-    case _:
-            print("PAKYUALL")
+if x > 10:
+    print("Less")
+elif x < 10:
+    print ("More")
