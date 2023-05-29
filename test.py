@@ -1,6 +1,5 @@
-x = 5 
+names = ['duque', 'beni']
 
-if x > 10:
-    print("Less")
-elif x < 10:
-    print ("More")
+names.append('robec')
+
+print(names[3])
