@@ -1,2 +1,5 @@
-x = 2 + 4 * (10 + 3) * (5 - 1)
-print(x)
+
+value = [10, 6, 30 , 20] 
+ans = sum(value)
+
+print(ans)
