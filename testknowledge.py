@@ -1,3 +1,1 @@
-tropa = ["Duqs", "Beni"]
-for x in tropa :
-    print(x)
+print (8*2/2)
