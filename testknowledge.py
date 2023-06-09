@@ -1,5 +1,3 @@
-x = 5 
-if x > 6 : 
-    print("Greater than")
-else :
-    print("I dont know")
+tropa = ["Duqs", "Beni"]
+for x in tropa :
+    print(x)
