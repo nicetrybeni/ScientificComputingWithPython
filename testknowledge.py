@@ -1,15 +1,16 @@
 class Solution(object):
-    def mergeTwoLists(self, l1, l2):
-        """
-        :type l1: ListNode
-        :type l2: ListNode
-        :rtype: ListNode
-        """
-        if not l1: return l2
-        if not l2: return l1
-        if l1.val < l2.val:
-            l1.next = self.mergeTwoLists(l1.next, l2)
-            return l1
-        else:
-            l2.next = self.mergeTwoLists(l1, l2.next)
-            return l2
+    def reverseList(self, head):
+        # Initialize prev pointer as NULL...
+        prev = None
+        # Initialize the curr pointer as the head...
+        curr = head
+        # Run a loop till curr points to NULL...
+        while curr:
+            # Initialize next pointer as the next pointer of curr...
+            next = curr.next
+            # Now assign the prev pointer to curr’s next pointer.
+            curr.next = prev
+            # Assign curr to prev, next to curr...
+            prev = curr
+            curr = next
+        return prev       # Return the prev pointer to get the reverse linked list...
