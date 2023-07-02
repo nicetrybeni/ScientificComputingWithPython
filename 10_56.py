@@ -1,4 +1,4 @@
-# While loop.
+#day 2 While loop.
 x = 10
 while x > 0:
     print(x)
