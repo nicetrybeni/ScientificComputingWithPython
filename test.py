@@ -1,5 +1,1 @@
-names = ['duque', 'beni']
-
-names.append('robec')
-
-print(names[3])
+#this is a comment and today I will grind and continue python
