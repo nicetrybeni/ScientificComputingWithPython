@@ -1,3 +1,4 @@
+#pagod na mag python
 # if and elif in python.
 x = 5
 if x < 10:
